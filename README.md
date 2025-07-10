@@ -12,8 +12,8 @@ Hello everyone, my name is Anuj Kaushik and currently I am pursuing my Bachelor'
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/anujkaushik2k02)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/anujkaushik2k02)
  
-- 🌱 I’m currently in love with <b>DeepLearning</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
+- 🌱 I’m currently in love with <b>MERN stack</b>
+- 🔭 Simultaneously exploring <b>Mobile dev</b>
 - 💬 Ask me about **Web Development**
 - 📫 Reach me at : **anujkaushik2k02@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
